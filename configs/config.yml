@@ -1,0 +1,6 @@
+port: "8080"
+dbUser: "postgres"
+dbPass: "P@ssw0rd"
+dbHost: "localhost"
+dbName: "library"
+dbPort: "5433"
